@@ -1,1 +1,1 @@
-echo "lightgreen" > ~/sc1cristian/colores.txt
+lightgreen
