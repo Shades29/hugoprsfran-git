@@ -1,5 +1,5 @@
 #!/bin/bash
-COLOR=$(cat "$HOME/sc1cristian/colores.txt")
+COLOR=$(cat "$HOME/hugoprs/colores.txt")
 
 cat > "$HOME/hugoprs/html/index.html" <<EOF
 <!DOCTYPE html>
