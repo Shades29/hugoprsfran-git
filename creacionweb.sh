@@ -1,5 +1,5 @@
 #!/bin/bash
-COLOR=$(cat "$HOME/hugoprs/colores.txt")
+COLOR="lightblue"
 
 cat > "$HOME/hugoprs/html/index.html" <<EOF
 <!DOCTYPE html>
